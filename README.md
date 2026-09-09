@@ -388,7 +388,7 @@ The system helps businesses:
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Saloni Jamdade**
 
 Built as a project exploring the combination of:
 
