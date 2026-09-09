@@ -1,0 +1,501 @@
+review_text,rating,date,verified_purchase,product_variant,sentiment,intent
+Battery alone is worth the price. Lasts me through the whole day easily.,5,2025-12-27,No,8GB-256GB,Positive,Buy Intent
+It's alright for the price. Nothing too impressive but does the job.,3,2026-01-23,Yes,8GB-256GB,Neutral,Inquiry
+"Clean software, fast updates. Love how snappy everything feels.",4,2024-09-27,Yes,8GB-128GB,Positive,Buy Intent
+Battery drains faster than expected during heavy use.,3,2024-06-08,Yes,8GB-256GB,Neutral,Buy Intent
+Disappointed. Everything about this phone screams cheap.,2,2024-11-02,Yes,12GB-256GB,Negative,Buy Intent
+Camera has good megapixels but software processing needs work.,3,2024-08-16,Yes,8GB-128GB,Neutral,Not Interested
+Performance is fine for everyday tasks. Gaming is average.,3,2024-10-19,Yes,12GB-512GB,Neutral,Inquiry
+Build feels decent but nothing feels premium.,3,2025-12-16,Yes,12GB-256GB,Neutral,Not Interested
+Heating while charging is extreme. Had to stop using it.,1,2026-02-23,Yes,8GB-128GB,Negative,Not Interested
+Lag is unbearable. Games are practically unplayable.,1,2025-06-03,Yes,8GB-128GB,Negative,Not Interested
+Battery life is okay — lasts a day with regular use.,3,2025-10-25,Yes,12GB-256GB,Neutral,Inquiry
+Screen to body ratio is excellent. Looks stunning.,4,2024-11-20,Yes,12GB-256GB,Positive,Buy Intent
+"Really happy with the call quality. Clear voice, no drops.",5,2025-12-23,Yes,12GB-256GB,Positive,Inquiry
+Very happy with this purchase. Camera rivals phones twice the price.,5,2024-07-26,Yes,8GB-128GB,Positive,Buy Intent
+Great value for money. Feels premium but doesn't cost a fortune.,4,2025-01-09,Yes,12GB-256GB,Positive,Inquiry
+"Excellent phone for the price. Camera, battery and performance are all top notch.",5,2026-02-21,Yes,12GB-256GB,Positive,Buy Intent
+Random app crashes every single day. Can't rely on this at all.,1,2025-05-17,Yes,8GB-256GB,Negative,Not Interested
+Battery life is a lie. Nothing like what's advertised.,2,2024-06-23,Yes,8GB-128GB,Negative,Complaint
+Photo processing is excellent. Pics look natural and sharp.,5,2024-08-01,Yes,8GB-256GB,Positive,Buy Intent
+Worst purchase I've made in years. Returning immediately.,2,2025-08-18,Yes,8GB-256GB,Negative,Inquiry
+Worst buying decision. Regret it every day.,1,2024-07-20,Yes,8GB-256GB,Negative,Complaint
+Display calibration is spot on. Colours look natural and vivid.,5,2026-01-06,No,12GB-256GB,Positive,Buy Intent
+Gets the job done. Just not wowing me like I hoped it would.,3,2024-08-21,No,8GB-128GB,Neutral,Complaint
+This has been my daily driver for 6 months. Still runs like new.,4,2024-05-07,Yes,8GB-128GB,Positive,Not Interested
+Software is clean but a few bugs here and there.,3,2024-12-03,Yes,8GB-256GB,Neutral,Buy Intent
+I was skeptical at first but this phone blew my expectations away.,5,2024-11-08,Yes,12GB-256GB,Positive,Buy Intent
+Been using this for 3 months now — zero issues. Would definitely recommend.,5,2026-01-20,No,12GB-256GB,Positive,Buy Intent
+Software updates are a bit slow but the phone functions well overall.,3,2024-08-03,Yes,12GB-256GB,Neutral,Complaint
+Fingerprint sensor works sometimes. Not the most reliable.,3,2024-11-16,Yes,8GB-256GB,Neutral,Inquiry
+Amazing night mode. Photos come out so detailed in low light.,5,2024-07-17,Yes,8GB-128GB,Positive,Buy Intent
+Camera has good megapixels but software processing needs work.,3,2025-03-13,Yes,8GB-128GB,Neutral,Inquiry
+"Camera is amazing, especially in low light. Very happy with my purchase!",5,2025-07-10,Yes,12GB-256GB,Positive,Buy Intent
+Honestly expected better performance based on the specs.,3,2024-07-28,Yes,8GB-128GB,Neutral,Not Interested
+Highly recommend for anyone looking for a reliable daily driver.,4,2025-09-23,No,8GB-256GB,Positive,Buy Intent
+Performance is a joke. My 5 year old phone was faster.,2,2025-08-20,Yes,8GB-256GB,Negative,Inquiry
+Good enough for the price range I suppose.,3,2025-09-19,Yes,12GB-256GB,Neutral,Inquiry
+Performance is a joke. My 5 year old phone was faster.,1,2024-11-25,Yes,8GB-128GB,Negative,Not Interested
+Disappointed with every aspect of this phone. Avoid at all costs.,2,2025-05-15,No,8GB-128GB,Negative,Complaint
+Phone gets so hot it shut itself off. Fire hazard maybe?,1,2026-01-22,Yes,8GB-128GB,Negative,Complaint
+Going to buy the 12GB variant next. This 8GB one has me sold.,4,2025-08-05,Yes,8GB-256GB,Positive,Buy Intent
+Phone heats up like crazy during any task. Unusable.,1,2024-09-12,Yes,8GB-128GB,Negative,Not Interested
+Love the macro camera feature. Takes amazing close-up shots.,4,2026-03-03,Yes,12GB-256GB,Positive,Inquiry
+Build quality is average. Feels a bit plasticky.,3,2025-05-26,Yes,12GB-256GB,Neutral,Inquiry
+Build quality is cheap. Screen cracked from a minor drop.,1,2024-04-15,Yes,8GB-256GB,Negative,Complaint
+Software updates are a bit slow but the phone functions well overall.,3,2024-06-25,Yes,12GB-512GB,Neutral,Complaint
+Mid-range phone that acts mid-range. Expected more for the price tbh.,3,2024-12-10,Yes,12GB-256GB,Neutral,Buy Intent
+Worst camera I've seen in this price range. Grainy and dull.,1,2026-03-05,Yes,12GB-512GB,Negative,Complaint
+Not bad not great. Just somewhere in the middle.,3,2024-04-11,Yes,8GB-256GB,Neutral,Buy Intent
+Great value for money. Feels premium but doesn't cost a fortune.,4,2025-07-04,Yes,12GB-256GB,Positive,Inquiry
+Charging port stopped working after 1 month. Build quality is poor.,2,2025-08-23,Yes,8GB-128GB,Negative,Complaint
+Does the job but nothing more. 3 stars feels right.,3,2025-01-19,No,8GB-256GB,Neutral,Not Interested
+Customer service is useless and the product is worse.,2,2024-05-30,Yes,8GB-256GB,Negative,Inquiry
+Camera quality is extremely disappointing. Blurry even in daylight.,2,2025-05-11,Yes,8GB-128GB,Negative,Not Interested
+Display refresh rate is buttery smooth. Love using this daily.,5,2025-07-02,No,12GB-256GB,Positive,Buy Intent
+Very disappointed with after-sales service. Complete neglect.,2,2024-05-21,Yes,8GB-128GB,Negative,Complaint
+Average phone. Does what it's supposed to. Nothing special.,3,2024-06-24,Yes,8GB-256GB,Neutral,Inquiry
+Does the job but nothing more. 3 stars feels right.,3,2026-03-02,No,12GB-512GB,Neutral,Buy Intent
+Sturdy build. Dropped it once and no damage at all.,4,2026-01-06,Yes,8GB-128GB,Positive,Buy Intent
+Terrible battery life. Dead by afternoon even with light use.,2,2026-03-17,Yes,8GB-256GB,Negative,Complaint
+"Great phone, great price. Couldn't ask for more honestly.",5,2024-05-04,Yes,12GB-256GB,Positive,Buy Intent
+Storage is fast — app installations and file transfers are quick.,4,2025-02-21,Yes,8GB-128GB,Positive,Buy Intent
+Heating issue is unbearable. Burns my hand during gaming.,2,2025-05-04,Yes,12GB-256GB,Negative,Complaint
+Phone slows down after installing a few apps. Pathetic performance.,2,2025-01-27,Yes,12GB-512GB,Negative,Complaint
+Amazing phone. The wide angle camera is surprisingly good.,5,2026-02-20,Yes,8GB-128GB,Positive,Inquiry
+Does the job but nothing more. 3 stars feels right.,3,2025-12-16,No,8GB-256GB,Neutral,Inquiry
+Raised a complaint about heating but got no response from support.,2,2025-12-09,Yes,8GB-128GB,Negative,Complaint
+"Super smooth UI. No bloatware, which is refreshing.",5,2025-04-24,Yes,12GB-256GB,Positive,Buy Intent
+Display brightness is too low. Can barely see in sunlight.,2,2025-12-29,Yes,12GB-256GB,Negative,Complaint
+Battery swelled after 4 months. Very scary experience.,1,2025-02-16,Yes,8GB-128GB,Negative,Complaint
+It's fine. Not exceptional but not terrible either.,3,2026-03-13,Yes,8GB-128GB,Neutral,Complaint
+Absolutely love this phone! The camera quality is stunning and battery lasts all day easily.,4,2026-03-21,No,8GB-128GB,Positive,Inquiry
+Love the design and build quality. Feels solid in hand.,5,2025-05-27,Yes,8GB-128GB,Positive,Buy Intent
+Already recommended this to my brother. He's ordering one this weekend.,5,2025-03-16,No,12GB-256GB,Positive,Buy Intent
+Worst camera I've seen in this price range. Grainy and dull.,2,2025-02-15,Yes,8GB-256GB,Negative,Complaint
+"It's a decent phone for the money. Not great, not bad.",3,2024-05-13,Yes,8GB-128GB,Neutral,Buy Intent
+The processor handles everything effortlessly. Very impressed.,5,2024-04-20,Yes,8GB-256GB,Positive,Buy Intent
+The processor handles everything effortlessly. Very impressed.,4,2026-02-05,Yes,8GB-256GB,Positive,Buy Intent
+Display colors look a bit washed out compared to my previous phone.,3,2026-02-04,Yes,8GB-128GB,Neutral,Inquiry
+"Works perfectly. No issues with connectivity, speed or battery.",4,2024-06-16,Yes,12GB-256GB,Positive,Buy Intent
+Battery drains 30% overnight just on standby. Unacceptable.,1,2026-03-12,Yes,12GB-256GB,Negative,Not Interested
+Sound quality during calls is muffled and unclear.,1,2025-11-23,Yes,12GB-512GB,Negative,Inquiry
+Phone heats up a tiny bit during gaming but nothing crazy. Overall excellent.,4,2024-07-26,No,8GB-128GB,Positive,Buy Intent
+Software optimisation is non-existent. Sluggish on day one.,1,2025-07-25,Yes,8GB-256GB,Negative,Not Interested
+Face unlock is super fast. Fingerprint sensor is accurate.,4,2024-09-11,No,8GB-128GB,Positive,Buy Intent
+Camera has good megapixels but software processing needs work.,3,2024-12-22,Yes,12GB-256GB,Neutral,Inquiry
+Phone crashes while charging. Dangerous product.,1,2025-08-09,Yes,12GB-256GB,Negative,Inquiry
+"Super fast processor, apps open instantly. No complaints so far.",5,2025-11-18,Yes,12GB-256GB,Positive,Buy Intent
+Complained about dead pixels. They want me to pay for repair on a new phone!,1,2024-07-10,No,8GB-256GB,Negative,Complaint
+The display is acceptable but not the sharpest I've used.,3,2025-01-13,Yes,12GB-512GB,Neutral,Inquiry
+Build quality is average. Feels a bit plasticky.,3,2025-01-21,No,8GB-256GB,Neutral,Inquiry
+"Solid build, great camera, long battery. What more do you need?",5,2024-05-21,Yes,8GB-128GB,Positive,Buy Intent
+Best phone I've ever bought in this price range. Display is super crisp and performance is smooth.,5,2026-02-05,Yes,8GB-128GB,Positive,Buy Intent
+The camera is absolutely terrible. Even my old phone took better pics.,1,2024-12-12,Yes,12GB-512GB,Negative,Inquiry
+Software is clean but a few bugs here and there.,3,2025-01-24,Yes,12GB-256GB,Neutral,Buy Intent
+Needs improvement in camera and battery. Rest is okay.,3,2025-06-28,Yes,8GB-256GB,Neutral,Not Interested
+"Phone is decent. Camera is ok, battery could be better.",3,2024-08-21,Yes,12GB-256GB,Neutral,Not Interested
+Would 100% buy this again. Might get one for my parents too.,4,2024-08-08,No,8GB-128GB,Positive,Buy Intent
+Disappointed. Everything about this phone screams cheap.,1,2024-07-26,Yes,12GB-256GB,Negative,Inquiry
+Software optimisation is non-existent. Sluggish on day one.,1,2026-01-07,No,8GB-256GB,Negative,Not Interested
+Camera takes incredible portraits. Background blur looks very natural.,4,2025-06-15,Yes,8GB-256GB,Positive,Buy Intent
+Phone works as expected. Nothing to write home about.,3,2025-02-17,No,12GB-512GB,Neutral,Not Interested
+This phone is a beast. Does everything I ask without breaking a sweat.,4,2024-11-23,No,12GB-512GB,Positive,Not Interested
+Software is full of bugs. Apps crash constantly.,2,2025-03-09,No,8GB-128GB,Negative,Not Interested
+Constant lag and stuttering. Cannot multitask at all.,1,2024-10-25,No,12GB-256GB,Negative,Buy Intent
+Honestly expected better performance based on the specs.,3,2025-09-26,No,8GB-128GB,Neutral,Inquiry
+This phone makes me look like a professional photographer lol.,5,2025-11-25,No,12GB-256GB,Positive,Buy Intent
+Gets the job done. Just not wowing me like I hoped it would.,3,2025-10-17,Yes,12GB-256GB,Neutral,Buy Intent
+This has been my daily driver for 6 months. Still runs like new.,4,2024-05-08,Yes,8GB-256GB,Positive,Inquiry
+Battery life is okay — lasts a day with regular use.,3,2025-01-10,Yes,12GB-256GB,Neutral,Not Interested
+Overheating is a serious issue. Phone becomes hot to touch.,1,2024-04-22,Yes,8GB-256GB,Negative,Complaint
+Love the design and build quality. Feels solid in hand.,5,2024-08-06,Yes,8GB-128GB,Positive,Complaint
+I was skeptical at first but this phone blew my expectations away.,4,2025-01-16,Yes,12GB-256GB,Positive,Buy Intent
+Phone heats up a tiny bit during gaming but nothing crazy. Overall excellent.,4,2025-07-26,Yes,12GB-256GB,Positive,Buy Intent
+I was skeptical at first but this phone blew my expectations away.,4,2024-05-27,Yes,12GB-512GB,Positive,Buy Intent
+Battery life is okay — lasts a day with regular use.,3,2025-08-02,Yes,8GB-128GB,Neutral,Not Interested
+It's fine. Not exceptional but not terrible either.,3,2025-07-30,No,12GB-256GB,Neutral,Complaint
+Battery charges from 0 to 100 in under an hour. Amazing fast charge!,5,2026-01-16,No,12GB-512GB,Positive,Not Interested
+Amazing night mode. Photos come out so detailed in low light.,5,2025-10-27,Yes,8GB-256GB,Positive,Complaint
+Highly recommend for anyone looking for a reliable daily driver.,4,2025-12-31,Yes,8GB-256GB,Positive,Buy Intent
+Face unlock is super fast. Fingerprint sensor is accurate.,4,2025-11-01,Yes,12GB-256GB,Positive,Buy Intent
+Camera has good megapixels but software processing needs work.,3,2024-10-21,Yes,12GB-256GB,Neutral,Not Interested
+Highly recommend for anyone looking for a reliable daily driver.,5,2026-03-09,Yes,8GB-256GB,Positive,Inquiry
+Phone is okay overall. Just ok.,3,2024-07-03,No,12GB-256GB,Neutral,Not Interested
+This phone convinced me to finally upgrade. Placing a second order for my wife too.,4,2025-12-17,No,12GB-256GB,Positive,Buy Intent
+Camera does well in daylight but struggles a bit at night.,3,2025-03-03,Yes,8GB-128GB,Neutral,Not Interested
+Performance is flagship level at mid-range price. Huge win!,5,2024-10-26,Yes,8GB-256GB,Positive,Buy Intent
+Great speakers too! Stereo sound is loud and clear.,5,2024-05-20,No,8GB-256GB,Positive,Inquiry
+Build quality is cheap. Screen cracked from a minor drop.,2,2024-11-21,Yes,8GB-128GB,Negative,Complaint
+Battery drains 30% overnight just on standby. Unacceptable.,1,2026-02-04,Yes,8GB-128GB,Negative,Complaint
+Display is good but not the brightest I've seen.,3,2024-09-02,Yes,8GB-128GB,Neutral,Not Interested
+Camera quality is extremely disappointing. Blurry even in daylight.,2,2024-06-30,Yes,8GB-128GB,Negative,Complaint
+Performance is acceptable. Some occasional lag during multitasking.,3,2025-02-13,No,12GB-256GB,Neutral,Inquiry
+"Works perfectly. No issues with connectivity, speed or battery.",4,2025-05-27,No,8GB-256GB,Positive,Inquiry
+Phone crashes while charging. Dangerous product.,1,2025-07-06,Yes,8GB-256GB,Negative,Inquiry
+Love the macro camera feature. Takes amazing close-up shots.,4,2026-01-09,Yes,12GB-512GB,Positive,Buy Intent
+Battery drains faster than expected during heavy use.,3,2025-11-14,Yes,8GB-256GB,Neutral,Inquiry
+Great purchase. My whole family is impressed with the camera.,5,2024-09-19,Yes,8GB-256GB,Positive,Buy Intent
+"Clean software, fast updates. Love how snappy everything feels.",5,2025-03-21,Yes,8GB-256GB,Positive,Buy Intent
+Screen to body ratio is excellent. Looks stunning.,5,2025-06-29,Yes,8GB-256GB,Positive,Buy Intent
+"Excellent phone for the price. Camera, battery and performance are all top notch.",4,2025-06-10,No,8GB-128GB,Positive,Buy Intent
+Software is clean but a few bugs here and there.,3,2024-05-27,Yes,12GB-512GB,Neutral,Complaint
+Build quality is average. Feels a bit plasticky.,3,2025-03-29,Yes,12GB-256GB,Neutral,Inquiry
+I'm not blown away but it works. That's about it.,3,2024-11-20,Yes,12GB-256GB,Neutral,Inquiry
+Camera has good megapixels but software processing needs work.,3,2025-12-10,Yes,8GB-128GB,Neutral,Buy Intent
+"Excellent phone for the price. Camera, battery and performance are all top notch.",4,2024-12-02,Yes,8GB-128GB,Positive,Buy Intent
+Excellent phone. I'm a happy customer and will buy again.,5,2026-01-31,Yes,12GB-256GB,Positive,Buy Intent
+Gets the job done. Just not wowing me like I hoped it would.,3,2025-10-29,No,8GB-128GB,Neutral,Buy Intent
+Charging port stopped working after 1 month. Build quality is poor.,2,2024-06-23,Yes,8GB-128GB,Negative,Complaint
+App loading times are terrible. Even basic apps take forever.,2,2025-06-13,No,8GB-128GB,Negative,Complaint
+This is my third complaint about the same issue. Nobody is helping.,2,2024-12-28,Yes,8GB-128GB,Negative,Complaint
+Highly recommend for anyone looking for a reliable daily driver.,5,2025-05-06,Yes,8GB-256GB,Positive,Complaint
+Phone gets so hot it shut itself off. Fire hazard maybe?,2,2025-03-06,Yes,12GB-256GB,Negative,Complaint
+Software is full of bugs. Apps crash constantly.,1,2025-09-28,Yes,8GB-128GB,Negative,Complaint
+One of the best budget-flagship phones out there. Highly recommended.,5,2024-04-23,Yes,8GB-128GB,Positive,Complaint
+App loading times are terrible. Even basic apps take forever.,2,2025-12-08,No,12GB-256GB,Negative,Complaint
+Camera has good megapixels but software processing needs work.,3,2024-12-23,Yes,8GB-128GB,Neutral,Not Interested
+Screen to body ratio is excellent. Looks stunning.,5,2025-05-19,No,12GB-256GB,Positive,Buy Intent
+Camera is decent but colors seem a bit over-saturated.,3,2024-05-29,Yes,8GB-256GB,Neutral,Complaint
+Great value for money. Feels premium but doesn't cost a fortune.,5,2025-11-30,Yes,12GB-256GB,Positive,Buy Intent
+This phone is a beast. Does everything I ask without breaking a sweat.,5,2025-02-12,Yes,12GB-256GB,Positive,Buy Intent
+Software updates are a bit slow but the phone functions well overall.,3,2024-10-04,No,8GB-256GB,Neutral,Not Interested
+"Great phone, great price. Couldn't ask for more honestly.",4,2025-02-11,Yes,8GB-128GB,Positive,Buy Intent
+Performance is fine for everyday tasks. Gaming is average.,3,2024-06-08,Yes,8GB-256GB,Neutral,Inquiry
+Heating while charging is extreme. Had to stop using it.,2,2025-03-31,No,8GB-128GB,Negative,Inquiry
+Photo processing is excellent. Pics look natural and sharp.,4,2025-12-20,Yes,8GB-128GB,Positive,Inquiry
+"Super smooth UI. No bloatware, which is refreshing.",5,2024-09-05,No,8GB-256GB,Positive,Buy Intent
+"It's an okay phone. Battery life meets expectations, barely.",3,2024-06-18,No,12GB-256GB,Neutral,Inquiry
+One of the best budget-flagship phones out there. Highly recommended.,4,2025-12-10,Yes,8GB-256GB,Positive,Buy Intent
+It's alright for the price. Nothing too impressive but does the job.,3,2026-02-06,Yes,12GB-256GB,Neutral,Inquiry
+This is my third complaint about the same issue. Nobody is helping.,1,2024-08-17,Yes,12GB-256GB,Negative,Complaint
+Performance is a joke. My 5 year old phone was faster.,1,2025-06-30,Yes,12GB-256GB,Negative,Buy Intent
+Does the job but nothing more. 3 stars feels right.,3,2025-05-15,Yes,12GB-512GB,Neutral,Inquiry
+This phone is a beast. Does everything I ask without breaking a sweat.,5,2025-05-01,Yes,8GB-256GB,Positive,Buy Intent
+"Clean software, fast updates. Love how snappy everything feels.",4,2025-12-18,Yes,8GB-128GB,Positive,Inquiry
+Does the job but nothing more. 3 stars feels right.,3,2024-06-28,Yes,12GB-512GB,Neutral,Buy Intent
+This phone convinced me to finally upgrade. Placing a second order for my wife too.,4,2025-01-11,Yes,12GB-512GB,Positive,Buy Intent
+Display flickering issue appeared after 2 months. Unacceptable.,1,2025-11-03,No,12GB-512GB,Negative,Complaint
+Average phone. Does what it's supposed to. Nothing special.,3,2025-06-07,Yes,12GB-512GB,Neutral,Not Interested
+Been using this for 3 months now — zero issues. Would definitely recommend.,5,2025-01-08,Yes,8GB-128GB,Positive,Buy Intent
+Battery is mediocre — charges fast tho which saves it.,3,2026-04-01,Yes,8GB-256GB,Neutral,Not Interested
+"Solid build, great camera, long battery. What more do you need?",5,2025-07-28,Yes,12GB-256GB,Positive,Buy Intent
+Works fine for basic tasks. Gaming on high settings gets choppy.,3,2025-10-16,Yes,8GB-128GB,Neutral,Buy Intent
+"Works perfectly. No issues with connectivity, speed or battery.",4,2025-10-16,Yes,12GB-256GB,Positive,Buy Intent
+Love the macro camera feature. Takes amazing close-up shots.,4,2025-05-24,Yes,12GB-512GB,Positive,Buy Intent
+Phone is okay overall. Just ok.,3,2024-05-07,Yes,12GB-256GB,Neutral,Inquiry
+The display is acceptable but not the sharpest I've used.,3,2025-07-09,Yes,8GB-256GB,Neutral,Not Interested
+Phone heats up like crazy during any task. Unusable.,2,2024-12-09,Yes,12GB-256GB,Negative,Complaint
+Phone gets so hot it shut itself off. Fire hazard maybe?,2,2024-12-14,Yes,8GB-128GB,Negative,Complaint
+Sound quality during calls is muffled and unclear.,1,2025-10-26,Yes,8GB-256GB,Negative,Inquiry
+Needs improvement in camera and battery. Rest is okay.,3,2025-03-07,Yes,8GB-128GB,Neutral,Inquiry
+App loading times are terrible. Even basic apps take forever.,2,2026-02-10,No,8GB-128GB,Negative,Complaint
+Going to buy this for my whole family. Best mid-range phone right now.,5,2024-12-20,Yes,8GB-128GB,Positive,Buy Intent
+Good enough for the price range I suppose.,3,2024-06-20,No,8GB-128GB,Neutral,Complaint
+"Works perfectly. No issues with connectivity, speed or battery.",5,2025-09-19,No,12GB-512GB,Positive,Inquiry
+One of the best budget-flagship phones out there. Highly recommended.,5,2024-06-26,Yes,12GB-256GB,Positive,Buy Intent
+Worst buying decision. Regret it every day.,2,2024-10-11,Yes,8GB-256GB,Negative,Complaint
+Performance is acceptable. Some occasional lag during multitasking.,3,2024-06-14,Yes,8GB-256GB,Neutral,Inquiry
+Amazing night mode. Photos come out so detailed in low light.,5,2025-08-31,Yes,8GB-256GB,Positive,Buy Intent
+This has been my daily driver for 6 months. Still runs like new.,4,2025-06-15,Yes,8GB-128GB,Positive,Buy Intent
+Fingerprint reader is basically decoration. Doesn't work.,1,2025-05-09,Yes,8GB-256GB,Negative,Complaint
+I was skeptical at first but this phone blew my expectations away.,4,2025-07-31,Yes,8GB-128GB,Positive,Buy Intent
+This phone is a beast. Does everything I ask without breaking a sweat.,5,2024-07-17,No,8GB-128GB,Positive,Buy Intent
+Battery is mediocre — charges fast tho which saves it.,3,2024-08-26,Yes,12GB-256GB,Neutral,Complaint
+Disappointed with every aspect of this phone. Avoid at all costs.,1,2025-04-17,Yes,8GB-128GB,Negative,Complaint
+"Great phone, great price. Couldn't ask for more honestly.",4,2025-07-22,Yes,12GB-256GB,Positive,Buy Intent
+Display colors look a bit washed out compared to my previous phone.,3,2025-03-09,Yes,8GB-256GB,Neutral,Complaint
+Heating issue is unbearable. Burns my hand during gaming.,2,2024-06-22,Yes,8GB-256GB,Negative,Complaint
+Very disappointed with after-sales service. Complete neglect.,2,2024-08-06,Yes,8GB-128GB,Negative,Complaint
+Battery life is okay — lasts a day with regular use.,3,2026-02-02,Yes,8GB-256GB,Neutral,Not Interested
+The processor handles everything effortlessly. Very impressed.,5,2024-04-08,Yes,12GB-256GB,Positive,Buy Intent
+The AMOLED display is absolutely beautiful. Perfect for watching videos.,4,2025-06-02,Yes,8GB-128GB,Positive,Inquiry
+Average performance in all areas. Neither a let down nor a surprise.,3,2025-01-12,Yes,8GB-128GB,Neutral,Inquiry
+It's functional. Got it for work and it handles calls and emails fine.,3,2024-10-29,Yes,12GB-512GB,Neutral,Inquiry
+Works fine for basic tasks. Gaming on high settings gets choppy.,3,2025-05-06,Yes,12GB-512GB,Neutral,Not Interested
+Terrible battery life. Dead by afternoon even with light use.,2,2024-11-04,No,8GB-128GB,Negative,Complaint
+"Phone is decent. Camera is ok, battery could be better.",3,2024-10-02,Yes,8GB-256GB,Neutral,Inquiry
+Battery drains 30% overnight just on standby. Unacceptable.,1,2026-03-27,Yes,8GB-128GB,Negative,Inquiry
+Reasonable phone for casual users. Power users might want more.,3,2025-06-05,No,12GB-256GB,Neutral,Inquiry
+Great value for money. Feels premium but doesn't cost a fortune.,5,2026-01-20,Yes,8GB-128GB,Positive,Inquiry
+Average phone. Does what it's supposed to. Nothing special.,3,2025-08-26,Yes,12GB-512GB,Neutral,Not Interested
+Great purchase. My whole family is impressed with the camera.,5,2026-03-24,Yes,12GB-256GB,Positive,Buy Intent
+"Great phone, great price. Couldn't ask for more honestly.",4,2025-11-27,Yes,12GB-256GB,Positive,Buy Intent
+Phone is okay overall. Just ok.,3,2024-05-28,Yes,8GB-256GB,Neutral,Inquiry
+Camera does well in daylight but struggles a bit at night.,3,2025-10-17,Yes,12GB-256GB,Neutral,Inquiry
+Heating issue is unbearable. Burns my hand during gaming.,1,2025-10-08,No,8GB-128GB,Negative,Complaint
+Bluetooth keeps disconnecting randomly. Very frustrating.,1,2025-04-08,Yes,8GB-256GB,Negative,Complaint
+"Super smooth UI. No bloatware, which is refreshing.",5,2025-03-06,No,12GB-256GB,Positive,Buy Intent
+Not bad not great. Just somewhere in the middle.,3,2025-01-25,Yes,8GB-128GB,Neutral,Inquiry
+Great speakers too! Stereo sound is loud and clear.,5,2026-01-01,Yes,12GB-512GB,Positive,Inquiry
+Needs improvement in camera and battery. Rest is okay.,3,2024-09-10,Yes,8GB-128GB,Neutral,Buy Intent
+Phone slows down after installing a few apps. Pathetic performance.,1,2025-07-18,Yes,8GB-128GB,Negative,Complaint
+Sent the phone for repair but they returned it unfixed.,1,2025-07-10,No,8GB-256GB,Negative,Complaint
+Works fine for basic tasks. Gaming on high settings gets choppy.,3,2025-03-31,No,8GB-128GB,Neutral,Complaint
+Display has dead pixels out of the box. Terrible quality control.,2,2025-01-29,Yes,12GB-256GB,Negative,Not Interested
+Sound quality during calls is muffled and unclear.,2,2025-07-21,Yes,12GB-256GB,Negative,Not Interested
+Battery is mediocre — charges fast tho which saves it.,3,2024-07-08,Yes,12GB-256GB,Neutral,Buy Intent
+Camera is decent but colors seem a bit over-saturated.,3,2024-06-30,Yes,8GB-128GB,Neutral,Not Interested
+"It's an okay phone. Battery life meets expectations, barely.",3,2024-06-25,Yes,8GB-128GB,Neutral,Inquiry
+Underwhelming but not a bad purchase for the price.,3,2024-06-28,Yes,12GB-512GB,Neutral,Not Interested
+"Super fast processor, apps open instantly. No complaints so far.",4,2025-11-19,Yes,12GB-512GB,Positive,Not Interested
+Performance is a joke. My 5 year old phone was faster.,1,2024-08-22,No,12GB-512GB,Negative,Not Interested
+"Great phone, great price. Couldn't ask for more honestly.",5,2026-03-31,Yes,8GB-256GB,Positive,Buy Intent
+Highly recommend for anyone looking for a reliable daily driver.,4,2025-07-17,Yes,8GB-256GB,Positive,Not Interested
+Display has dead pixels out of the box. Terrible quality control.,2,2024-09-04,Yes,12GB-256GB,Negative,Complaint
+Love the design and build quality. Feels solid in hand.,5,2024-12-07,Yes,8GB-128GB,Positive,Inquiry
+The processor handles everything effortlessly. Very impressed.,5,2026-02-14,Yes,12GB-256GB,Positive,Inquiry
+Heats up slightly during gaming but manageable.,3,2024-09-28,Yes,12GB-256GB,Neutral,Inquiry
+Works fine for basic tasks. Gaming on high settings gets choppy.,3,2025-04-12,Yes,8GB-128GB,Neutral,Inquiry
+Camera has great detail even in night mode. Very satisfied.,5,2025-06-28,Yes,8GB-256GB,Positive,Buy Intent
+"Super fast processor, apps open instantly. No complaints so far.",4,2024-11-29,Yes,12GB-256GB,Positive,Buy Intent
+Display refresh rate is buttery smooth. Love using this daily.,4,2024-07-03,Yes,12GB-256GB,Positive,Buy Intent
+Network connectivity is all over the place. Drops calls frequently.,2,2024-06-09,No,8GB-128GB,Negative,Inquiry
+Camera does well in daylight but struggles a bit at night.,3,2025-11-02,Yes,8GB-128GB,Neutral,Inquiry
+Phone crashes while charging. Dangerous product.,2,2024-04-14,Yes,8GB-128GB,Negative,Complaint
+Does the job but nothing more. 3 stars feels right.,3,2026-03-04,Yes,12GB-256GB,Neutral,Not Interested
+The display is acceptable but not the sharpest I've used.,3,2025-04-24,Yes,8GB-128GB,Neutral,Inquiry
+Battery is my fav thing about this phone. Zero anxiety about running out.,4,2024-06-03,Yes,12GB-256GB,Positive,Buy Intent
+Camera takes incredible portraits. Background blur looks very natural.,5,2025-02-24,No,12GB-256GB,Positive,Inquiry
+Fingerprint sensor works sometimes. Not the most reliable.,3,2025-10-21,Yes,12GB-256GB,Neutral,Buy Intent
+Honestly expected better performance based on the specs.,3,2025-12-26,Yes,8GB-256GB,Neutral,Complaint
+Camera app crashes every time I try to switch modes.,2,2025-02-25,No,8GB-128GB,Negative,Not Interested
+Honestly expected better performance based on the specs.,3,2024-09-14,Yes,12GB-256GB,Neutral,Inquiry
+The AMOLED display is absolutely beautiful. Perfect for watching videos.,5,2025-03-16,Yes,8GB-256GB,Positive,Inquiry
+It's functional. Got it for work and it handles calls and emails fine.,3,2024-12-14,Yes,8GB-256GB,Neutral,Inquiry
+Customer service is useless and the product is worse.,1,2026-01-18,No,8GB-128GB,Negative,Complaint
+Display refresh rate is buttery smooth. Love using this daily.,5,2024-11-01,Yes,8GB-128GB,Positive,Buy Intent
+Mid-range phone that acts mid-range. Expected more for the price tbh.,3,2025-09-07,Yes,8GB-128GB,Neutral,Inquiry
+This has been my daily driver for 6 months. Still runs like new.,4,2025-12-01,No,8GB-128GB,Positive,Buy Intent
+"Camera is amazing, especially in low light. Very happy with my purchase!",5,2025-07-19,Yes,8GB-128GB,Positive,Complaint
+Does the job but nothing more. 3 stars feels right.,3,2025-11-12,No,12GB-256GB,Neutral,Complaint
+Photo processing is excellent. Pics look natural and sharp.,5,2025-07-03,No,12GB-256GB,Positive,Buy Intent
+Constant lag and stuttering. Cannot multitask at all.,2,2026-03-17,Yes,8GB-256GB,Negative,Complaint
+Needs improvement in camera and battery. Rest is okay.,3,2025-01-09,No,12GB-256GB,Neutral,Buy Intent
+"Super smooth UI. No bloatware, which is refreshing.",4,2026-02-10,No,12GB-512GB,Positive,Inquiry
+"Super smooth UI. No bloatware, which is refreshing.",4,2024-08-21,Yes,8GB-128GB,Positive,Buy Intent
+Fine phone. Camera average. Battery average. Performance average.,3,2025-03-24,Yes,8GB-256GB,Neutral,Buy Intent
+The processor handles everything effortlessly. Very impressed.,4,2025-01-31,Yes,8GB-256GB,Positive,Buy Intent
+Performance is flagship level at mid-range price. Huge win!,4,2025-05-31,Yes,8GB-128GB,Positive,Buy Intent
+Regret this purchase completely. Would give 0 stars if I could.,2,2025-03-02,Yes,8GB-128GB,Negative,Not Interested
+It's alright for the price. Nothing too impressive but does the job.,3,2025-07-28,Yes,12GB-256GB,Neutral,Inquiry
+Does the job but nothing more. 3 stars feels right.,3,2025-01-27,Yes,8GB-256GB,Neutral,Inquiry
+Excellent phone. I'm a happy customer and will buy again.,5,2025-10-03,No,12GB-256GB,Positive,Inquiry
+Amazing night mode. Photos come out so detailed in low light.,5,2025-08-19,Yes,12GB-256GB,Positive,Buy Intent
+Camera does well in daylight but struggles a bit at night.,3,2025-04-24,No,8GB-256GB,Neutral,Not Interested
+Overheating is a serious issue. Phone becomes hot to touch.,1,2024-06-02,Yes,8GB-256GB,Negative,Complaint
+5G connectivity is blazing fast in my area. Very impressed.,5,2025-06-28,No,8GB-128GB,Positive,Not Interested
+Disappointed with every aspect of this phone. Avoid at all costs.,1,2024-10-06,Yes,8GB-128GB,Negative,Not Interested
+Battery life is okay — lasts a day with regular use.,3,2024-07-01,Yes,8GB-128GB,Neutral,Inquiry
+One of the best budget-flagship phones out there. Highly recommended.,4,2025-11-16,No,8GB-256GB,Positive,Buy Intent
+Performance is acceptable. Some occasional lag during multitasking.,3,2025-07-23,Yes,8GB-256GB,Neutral,Inquiry
+This is my third complaint about the same issue. Nobody is helping.,1,2026-04-04,Yes,8GB-128GB,Negative,Complaint
+Build quality is average. Feels a bit plasticky.,3,2026-01-20,No,8GB-128GB,Neutral,Buy Intent
+"Clean software, fast updates. Love how snappy everything feels.",4,2025-08-20,No,12GB-512GB,Positive,Buy Intent
+Phone heats up a tiny bit during gaming but nothing crazy. Overall excellent.,4,2024-12-12,Yes,8GB-128GB,Positive,Not Interested
+Battery life is okay — lasts a day with regular use.,3,2025-02-11,Yes,8GB-128GB,Neutral,Not Interested
+Performance is flagship level at mid-range price. Huge win!,5,2025-01-23,No,12GB-256GB,Positive,Inquiry
+Best phone I've ever bought in this price range. Display is super crisp and performance is smooth.,4,2025-05-03,Yes,12GB-256GB,Positive,Buy Intent
+This phone is not worth even half the price they're charging.,1,2024-04-12,No,8GB-128GB,Negative,Not Interested
+This phone is a beast. Does everything I ask without breaking a sweat.,4,2025-05-14,Yes,8GB-128GB,Positive,Inquiry
+Love the macro camera feature. Takes amazing close-up shots.,5,2025-10-15,Yes,8GB-128GB,Positive,Buy Intent
+Fine phone. Camera average. Battery average. Performance average.,3,2024-09-04,Yes,8GB-128GB,Neutral,Inquiry
+Camera has good megapixels but software processing needs work.,3,2025-10-02,No,12GB-256GB,Neutral,Inquiry
+Face unlock is super fast. Fingerprint sensor is accurate.,4,2026-02-08,No,8GB-256GB,Positive,Buy Intent
+The camera is absolutely terrible. Even my old phone took better pics.,2,2025-10-21,Yes,8GB-128GB,Negative,Complaint
+Lag is unbearable. Games are practically unplayable.,2,2026-01-17,Yes,12GB-512GB,Negative,Buy Intent
+Storage fills up fast and phone slows to a crawl.,2,2024-05-23,Yes,12GB-256GB,Negative,Not Interested
+Considering getting the higher storage model after this experience.,5,2025-05-01,No,8GB-256GB,Positive,Buy Intent
+Worst buying decision. Regret it every day.,1,2025-11-12,Yes,12GB-256GB,Negative,Inquiry
+Software updates are a bit slow but the phone functions well overall.,3,2025-09-07,Yes,12GB-256GB,Neutral,Buy Intent
+"Excellent phone for the price. Camera, battery and performance are all top notch.",5,2025-06-05,Yes,8GB-128GB,Positive,Buy Intent
+Best phone I've ever bought in this price range. Display is super crisp and performance is smooth.,5,2024-07-02,Yes,8GB-128GB,Positive,Buy Intent
+Battery life is okay — lasts a day with regular use.,3,2025-12-08,No,8GB-128GB,Neutral,Buy Intent
+Display brightness is too low. Can barely see in sunlight.,1,2024-10-14,Yes,8GB-128GB,Negative,Complaint
+Display brightness is too low. Can barely see in sunlight.,2,2025-06-22,Yes,12GB-256GB,Negative,Complaint
+Absolutely love this phone! The camera quality is stunning and battery lasts all day easily.,4,2025-11-27,Yes,12GB-256GB,Positive,Buy Intent
+Camera is decent but colors seem a bit over-saturated.,3,2024-08-16,No,8GB-256GB,Neutral,Inquiry
+"Phone is decent. Camera is ok, battery could be better.",3,2025-11-08,Yes,8GB-128GB,Neutral,Inquiry
+Complained about dead pixels. They want me to pay for repair on a new phone!,2,2025-05-03,Yes,8GB-256GB,Negative,Complaint
+Phone crashes while charging. Dangerous product.,2,2025-05-29,No,8GB-256GB,Negative,Not Interested
+Display is good but not the brightest I've seen.,3,2025-09-24,Yes,8GB-256GB,Neutral,Complaint
+Battery started degrading after just 3 months. Very disappointed.,2,2025-07-05,Yes,12GB-256GB,Negative,Buy Intent
+Software updates are a bit slow but the phone functions well overall.,3,2024-12-24,Yes,8GB-128GB,Neutral,Complaint
+Display colors look a bit washed out compared to my previous phone.,3,2026-03-02,Yes,12GB-256GB,Neutral,Inquiry
+Very happy with this purchase. Camera rivals phones twice the price.,5,2025-03-19,Yes,8GB-128GB,Positive,Complaint
+Excellent phone. I'm a happy customer and will buy again.,4,2025-08-16,Yes,12GB-512GB,Positive,Not Interested
+Bluetooth keeps disconnecting randomly. Very frustrating.,2,2024-07-09,Yes,8GB-128GB,Negative,Complaint
+"Solid build, great camera, long battery. What more do you need?",4,2024-05-18,Yes,8GB-256GB,Positive,Buy Intent
+Runs cool even during extended use. Impressive thermal management.,5,2026-02-13,No,12GB-256GB,Positive,Buy Intent
+Best phone I've ever bought in this price range. Display is super crisp and performance is smooth.,4,2025-01-14,Yes,12GB-512GB,Positive,Buy Intent
+"Solid build, great camera, long battery. What more do you need?",4,2025-01-16,No,8GB-128GB,Positive,Buy Intent
+Camera takes incredible portraits. Background blur looks very natural.,4,2026-02-23,Yes,8GB-256GB,Positive,Inquiry
+Battery charges from 0 to 100 in under an hour. Amazing fast charge!,5,2025-08-03,Yes,8GB-256GB,Positive,Buy Intent
+Absolutely love this phone! The camera quality is stunning and battery lasts all day easily.,5,2025-06-28,No,8GB-128GB,Positive,Buy Intent
+Sturdy build. Dropped it once and no damage at all.,5,2024-07-19,Yes,8GB-256GB,Positive,Buy Intent
+Display colors look a bit washed out compared to my previous phone.,3,2024-08-14,Yes,12GB-256GB,Neutral,Inquiry
+Going to buy the 12GB variant next. This 8GB one has me sold.,5,2025-08-23,Yes,8GB-128GB,Positive,Buy Intent
+Build quality is average. Feels a bit plasticky.,3,2025-12-26,Yes,8GB-128GB,Neutral,Buy Intent
+Battery alone is worth the price. Lasts me through the whole day easily.,5,2025-07-18,Yes,12GB-512GB,Positive,Buy Intent
+Fingerprint sensor works sometimes. Not the most reliable.,3,2025-02-05,Yes,12GB-512GB,Neutral,Not Interested
+Performance is flagship level at mid-range price. Huge win!,5,2025-10-09,Yes,8GB-256GB,Positive,Buy Intent
+This phone is not worth even half the price they're charging.,1,2024-12-04,Yes,8GB-128GB,Negative,Complaint
+Amazing night mode. Photos come out so detailed in low light.,4,2025-03-13,Yes,12GB-512GB,Positive,Not Interested
+Fingerprint sensor barely works. Have to try 5 times minimum.,1,2026-02-05,Yes,8GB-128GB,Negative,Complaint
+Battery is my fav thing about this phone. Zero anxiety about running out.,5,2024-09-11,Yes,8GB-128GB,Positive,Not Interested
+Complained about dead pixels. They want me to pay for repair on a new phone!,1,2024-08-29,Yes,8GB-128GB,Negative,Complaint
+Phone gets so hot it shut itself off. Fire hazard maybe?,1,2025-10-17,Yes,8GB-128GB,Negative,Not Interested
+Camera does well in daylight but struggles a bit at night.,3,2026-03-19,No,12GB-256GB,Neutral,Not Interested
+Phone heats up a tiny bit during gaming but nothing crazy. Overall excellent.,4,2025-07-02,No,8GB-256GB,Positive,Buy Intent
+Phone crashes while charging. Dangerous product.,1,2024-07-11,No,8GB-128GB,Negative,Not Interested
+App loading times are terrible. Even basic apps take forever.,1,2026-03-26,Yes,8GB-128GB,Negative,Complaint
+"Excellent phone for the price. Camera, battery and performance are all top notch.",4,2024-05-28,Yes,12GB-512GB,Positive,Buy Intent
+"It's an okay phone. Battery life meets expectations, barely.",3,2025-01-26,Yes,12GB-256GB,Neutral,Not Interested
+Battery started degrading after just 3 months. Very disappointed.,2,2025-04-03,Yes,12GB-256GB,Negative,Complaint
+Constant lag and stuttering. Cannot multitask at all.,1,2024-05-16,Yes,12GB-512GB,Negative,Buy Intent
+Phone heats up a tiny bit during gaming but nothing crazy. Overall excellent.,5,2024-09-24,Yes,12GB-256GB,Positive,Buy Intent
+Going to buy this for my whole family. Best mid-range phone right now.,4,2024-07-27,Yes,12GB-256GB,Positive,Buy Intent
+This phone is a complete scam for the price. Terrible value.,2,2024-11-14,Yes,12GB-256GB,Negative,Inquiry
+It's fine. Not exceptional but not terrible either.,3,2024-05-29,Yes,8GB-128GB,Neutral,Not Interested
+Heats up slightly during gaming but manageable.,3,2025-08-29,Yes,8GB-256GB,Neutral,Inquiry
+Regret this purchase completely. Would give 0 stars if I could.,2,2026-03-05,Yes,8GB-128GB,Negative,Complaint
+Worst camera I've seen in this price range. Grainy and dull.,1,2025-08-01,Yes,8GB-128GB,Negative,Complaint
+Face unlock is super fast. Fingerprint sensor is accurate.,4,2025-05-05,Yes,8GB-128GB,Positive,Buy Intent
+Love the design and build quality. Feels solid in hand.,5,2024-11-24,Yes,8GB-256GB,Positive,Buy Intent
+Worst buying decision. Regret it every day.,2,2025-11-18,Yes,8GB-128GB,Negative,Complaint
+This phone is a beast. Does everything I ask without breaking a sweat.,4,2025-05-04,No,8GB-128GB,Positive,Inquiry
+"Super smooth UI. No bloatware, which is refreshing.",5,2024-05-28,Yes,12GB-256GB,Positive,Buy Intent
+Camera app crashes every time I try to switch modes.,2,2024-10-06,Yes,12GB-512GB,Negative,Buy Intent
+Phone is okay overall. Just ok.,3,2024-05-15,Yes,12GB-256GB,Neutral,Inquiry
+Build feels decent but nothing feels premium.,3,2025-10-30,No,12GB-256GB,Neutral,Inquiry
+Considering getting the higher storage model after this experience.,5,2025-08-22,Yes,8GB-256GB,Positive,Buy Intent
+This phone makes me look like a professional photographer lol.,5,2025-09-26,Yes,12GB-256GB,Positive,Buy Intent
+Customer service is useless and the product is worse.,1,2025-03-25,Yes,8GB-256GB,Negative,Complaint
+Sound quality during calls is muffled and unclear.,2,2025-09-25,Yes,12GB-256GB,Negative,Not Interested
+Phone is okay overall. Just ok.,3,2026-03-12,Yes,8GB-128GB,Neutral,Complaint
+Filed a complaint with customer service. Still waiting for resolution after 2 weeks.,1,2024-10-17,Yes,12GB-256GB,Negative,Complaint
+Disappointed with every aspect of this phone. Avoid at all costs.,2,2025-06-13,Yes,8GB-256GB,Negative,Complaint
+Network connectivity is all over the place. Drops calls frequently.,1,2024-08-11,Yes,8GB-256GB,Negative,Not Interested
+Does the job but nothing more. 3 stars feels right.,3,2026-03-16,Yes,8GB-128GB,Neutral,Buy Intent
+Fingerprint sensor works sometimes. Not the most reliable.,3,2024-12-08,No,8GB-128GB,Neutral,Inquiry
+Build quality is average. Feels a bit plasticky.,3,2026-01-29,Yes,12GB-256GB,Neutral,Inquiry
+Software is clean but a few bugs here and there.,3,2025-04-13,Yes,12GB-512GB,Neutral,Not Interested
+Filed a complaint with customer service. Still waiting for resolution after 2 weeks.,1,2025-09-30,Yes,8GB-256GB,Negative,Complaint
+One of the best budget-flagship phones out there. Highly recommended.,5,2026-01-07,Yes,8GB-128GB,Positive,Buy Intent
+"Clean software, fast updates. Love how snappy everything feels.",5,2026-02-28,Yes,12GB-256GB,Positive,Buy Intent
+Not interested in this device anymore after using it. Too many issues.,2,2025-12-09,No,8GB-256GB,Negative,Not Interested
+Love the design and build quality. Feels solid in hand.,5,2025-11-24,Yes,8GB-128GB,Positive,Buy Intent
+Amazing phone. The wide angle camera is surprisingly good.,5,2026-02-21,No,8GB-256GB,Positive,Buy Intent
+Returned this phone after 2 weeks. Performance was horrible.,2,2025-03-27,Yes,8GB-128GB,Negative,Inquiry
+Disappointed. Everything about this phone screams cheap.,2,2024-08-09,Yes,12GB-512GB,Negative,Not Interested
+Good enough for the price range I suppose.,3,2025-01-10,Yes,12GB-256GB,Neutral,Inquiry
+Good enough for the price range I suppose.,3,2024-06-01,No,8GB-128GB,Neutral,Buy Intent
+Phone slows down after installing a few apps. Pathetic performance.,2,2026-03-18,No,12GB-512GB,Negative,Not Interested
+"Great phone, great price. Couldn't ask for more honestly.",4,2024-07-10,No,8GB-128GB,Positive,Buy Intent
+5G connectivity is blazing fast in my area. Very impressed.,4,2025-04-29,Yes,12GB-512GB,Positive,Inquiry
+Going to buy this for my whole family. Best mid-range phone right now.,5,2025-12-19,Yes,8GB-128GB,Positive,Buy Intent
+Complained about dead pixels. They want me to pay for repair on a new phone!,1,2024-11-17,Yes,8GB-128GB,Negative,Complaint
+"Camera is amazing, especially in low light. Very happy with my purchase!",4,2026-03-05,Yes,12GB-256GB,Positive,Inquiry
+Regret this purchase completely. Would give 0 stars if I could.,1,2025-07-18,Yes,8GB-128GB,Negative,Inquiry
+Display brightness is too low. Can barely see in sunlight.,1,2025-06-29,Yes,12GB-256GB,Negative,Complaint
+Phone heats up like crazy during any task. Unusable.,1,2024-12-17,Yes,12GB-256GB,Negative,Not Interested
+Gets the job done. Just not wowing me like I hoped it would.,3,2024-08-31,Yes,12GB-256GB,Neutral,Inquiry
+Performance during video calls is flawless. No heating issues.,5,2025-08-25,No,8GB-128GB,Positive,Buy Intent
+Performance is flagship level at mid-range price. Huge win!,5,2026-01-21,Yes,12GB-256GB,Positive,Buy Intent
+Runs cool even during extended use. Impressive thermal management.,4,2025-10-10,Yes,12GB-256GB,Positive,Buy Intent
+Performance is flagship level at mid-range price. Huge win!,5,2025-02-02,Yes,12GB-256GB,Positive,Inquiry
+Sound quality during calls is muffled and unclear.,1,2024-05-29,No,12GB-256GB,Negative,Complaint
+This phone is a complete scam for the price. Terrible value.,2,2024-09-09,Yes,8GB-128GB,Negative,Complaint
+The AMOLED display is absolutely beautiful. Perfect for watching videos.,4,2025-07-04,No,12GB-512GB,Positive,Buy Intent
+5G connectivity is blazing fast in my area. Very impressed.,4,2025-04-13,No,8GB-128GB,Positive,Buy Intent
+Display is gorgeous. Colors pop and it's bright even in sunlight.,5,2024-12-26,Yes,8GB-128GB,Positive,Buy Intent
+Good enough for the price range I suppose.,3,2025-10-31,Yes,8GB-128GB,Neutral,Inquiry
+Great value for money. Feels premium but doesn't cost a fortune.,5,2024-05-01,Yes,12GB-512GB,Positive,Buy Intent
+This phone makes me look like a professional photographer lol.,5,2024-12-12,Yes,8GB-128GB,Positive,Buy Intent
+Not bad not great. Just somewhere in the middle.,3,2026-03-29,No,8GB-256GB,Neutral,Inquiry
+Phone is okay overall. Just ok.,3,2024-12-17,Yes,8GB-128GB,Neutral,Inquiry
+Love the macro camera feature. Takes amazing close-up shots.,4,2025-12-20,Yes,8GB-256GB,Positive,Buy Intent
+Sound quality during calls is muffled and unclear.,1,2024-12-16,Yes,12GB-256GB,Negative,Complaint
+Build quality is average. Feels a bit plasticky.,3,2025-02-21,No,8GB-128GB,Neutral,Complaint
+Do not buy this phone. Waste of money.,1,2025-08-27,No,8GB-256GB,Negative,Complaint
+Fingerprint reader is basically decoration. Doesn't work.,1,2025-08-25,No,8GB-128GB,Negative,Complaint
+Display calibration is spot on. Colours look natural and vivid.,4,2024-06-20,Yes,8GB-256GB,Positive,Buy Intent
+"Super smooth UI. No bloatware, which is refreshing.",5,2024-07-29,Yes,8GB-256GB,Positive,Inquiry
+Not bad not great. Just somewhere in the middle.,3,2025-04-23,Yes,12GB-256GB,Neutral,Buy Intent
+"Excellent phone for the price. Camera, battery and performance are all top notch.",5,2025-01-15,No,8GB-128GB,Positive,Buy Intent
+"Really happy with the call quality. Clear voice, no drops.",5,2026-03-23,Yes,8GB-128GB,Positive,Buy Intent
+Performance is acceptable. Some occasional lag during multitasking.,3,2025-08-09,No,12GB-256GB,Neutral,Buy Intent
+Average performance in all areas. Neither a let down nor a surprise.,3,2024-12-08,Yes,12GB-256GB,Neutral,Not Interested
+Camera app crashes every time I try to switch modes.,1,2025-07-26,Yes,12GB-256GB,Negative,Not Interested
+Returned this phone after 2 weeks. Performance was horrible.,2,2025-11-06,No,8GB-256GB,Negative,Complaint
+Excellent phone. I'm a happy customer and will buy again.,5,2026-03-07,Yes,12GB-256GB,Positive,Buy Intent
+Heating while charging is extreme. Had to stop using it.,1,2025-09-19,No,8GB-128GB,Negative,Complaint
+This has been my daily driver for 6 months. Still runs like new.,4,2026-02-09,Yes,8GB-128GB,Positive,Buy Intent
+Build feels decent but nothing feels premium.,3,2025-03-20,Yes,8GB-128GB,Neutral,Inquiry
+Battery is mediocre — charges fast tho which saves it.,3,2024-12-09,No,8GB-128GB,Neutral,Inquiry
+Battery life is insane — easily 2 days with moderate use. Fast charging is a bonus.,4,2026-02-11,Yes,8GB-128GB,Positive,Buy Intent
+Phone heats up like crazy during any task. Unusable.,2,2024-12-10,Yes,8GB-128GB,Negative,Complaint
+Battery swelled after 4 months. Very scary experience.,1,2024-06-19,Yes,12GB-256GB,Negative,Complaint
+Phone heats up a tiny bit during gaming but nothing crazy. Overall excellent.,4,2024-12-14,Yes,12GB-256GB,Positive,Buy Intent
+Not bad not great. Just somewhere in the middle.,3,2025-12-17,Yes,8GB-128GB,Neutral,Inquiry
+Storage fills up fast and phone slows to a crawl.,2,2025-05-03,Yes,8GB-128GB,Negative,Complaint
+Build quality is cheap. Screen cracked from a minor drop.,1,2025-07-24,Yes,8GB-256GB,Negative,Complaint
+Heating issue is unbearable. Burns my hand during gaming.,2,2024-07-21,Yes,8GB-256GB,Negative,Inquiry
+Lag is unbearable. Games are practically unplayable.,2,2025-03-28,No,8GB-128GB,Negative,Not Interested
+The processor handles everything effortlessly. Very impressed.,5,2024-05-10,Yes,12GB-256GB,Positive,Buy Intent
+Needs improvement in camera and battery. Rest is okay.,3,2025-12-28,Yes,8GB-256GB,Neutral,Inquiry
+Screen to body ratio is excellent. Looks stunning.,4,2026-03-10,Yes,12GB-512GB,Positive,Inquiry
+This phone makes me look like a professional photographer lol.,4,2025-03-30,Yes,12GB-256GB,Positive,Buy Intent
+Amazing phone. The wide angle camera is surprisingly good.,4,2024-05-27,Yes,8GB-256GB,Positive,Buy Intent
+Software optimisation is non-existent. Sluggish on day one.,2,2026-04-03,No,8GB-128GB,Negative,Complaint
+Fingerprint sensor barely works. Have to try 5 times minimum.,2,2025-10-13,Yes,12GB-256GB,Negative,Complaint
+Great speakers too! Stereo sound is loud and clear.,4,2025-11-29,Yes,8GB-128GB,Positive,Inquiry
+Decided against keeping this. Not what I expected.,1,2026-03-09,Yes,12GB-256GB,Negative,Not Interested
+Battery drains 30% overnight just on standby. Unacceptable.,1,2024-04-16,Yes,8GB-128GB,Negative,Not Interested
+Display has dead pixels out of the box. Terrible quality control.,1,2025-11-10,Yes,8GB-256GB,Negative,Not Interested
+Performance is acceptable. Some occasional lag during multitasking.,3,2024-12-08,Yes,8GB-256GB,Neutral,Not Interested
+Lag is unbearable. Games are practically unplayable.,2,2026-03-24,Yes,8GB-256GB,Negative,Not Interested
+Constant lag and stuttering. Cannot multitask at all.,2,2025-07-09,No,8GB-128GB,Negative,Complaint
+Already recommended this to my brother. He's ordering one this weekend.,4,2025-11-29,Yes,8GB-128GB,Positive,Buy Intent
+Camera app crashes every time I try to switch modes.,2,2025-11-05,Yes,12GB-512GB,Negative,Complaint
+Random app crashes every single day. Can't rely on this at all.,2,2025-10-14,Yes,12GB-256GB,Negative,Complaint
+Battery life is a lie. Nothing like what's advertised.,1,2025-11-18,Yes,12GB-256GB,Negative,Complaint
+Software is clean but a few bugs here and there.,3,2026-02-18,Yes,12GB-256GB,Neutral,Not Interested
+Love the design and build quality. Feels solid in hand.,4,2025-02-18,Yes,8GB-256GB,Positive,Buy Intent
+Camera has great detail even in night mode. Very satisfied.,4,2024-06-18,Yes,8GB-128GB,Positive,Buy Intent
+Performance is fine for everyday tasks. Gaming is average.,3,2025-09-26,No,8GB-256GB,Neutral,Not Interested
+Photo processing is excellent. Pics look natural and sharp.,5,2024-05-02,Yes,8GB-128GB,Positive,Inquiry
+Love the macro camera feature. Takes amazing close-up shots.,5,2025-09-05,No,8GB-128GB,Positive,Buy Intent
+"Smooth performance, no lags whatsoever. Gaming works perfectly on this device.",4,2025-01-09,Yes,8GB-128GB,Positive,Complaint
+Battery life is insane — easily 2 days with moderate use. Fast charging is a bonus.,4,2024-09-13,Yes,8GB-256GB,Positive,Buy Intent
+Needs improvement in camera and battery. Rest is okay.,3,2024-08-15,Yes,8GB-256GB,Neutral,Inquiry
+Complained about dead pixels. They want me to pay for repair on a new phone!,2,2025-05-05,Yes,8GB-128GB,Negative,Complaint
+Display flickering issue appeared after 2 months. Unacceptable.,1,2026-01-28,Yes,8GB-256GB,Negative,Complaint
+It's functional. Got it for work and it handles calls and emails fine.,3,2025-12-23,Yes,12GB-256GB,Neutral,Inquiry
+Average performance in all areas. Neither a let down nor a surprise.,3,2024-05-30,No,8GB-256GB,Neutral,Not Interested
+Performance is a joke. My 5 year old phone was faster.,1,2024-12-11,Yes,8GB-256GB,Negative,Complaint
+Great value for money. Feels premium but doesn't cost a fortune.,4,2024-05-08,Yes,8GB-128GB,Positive,Buy Intent
+Sturdy build. Dropped it once and no damage at all.,5,2025-07-16,Yes,12GB-256GB,Positive,Buy Intent
+Phone heats up like crazy during any task. Unusable.,2,2025-02-28,Yes,8GB-256GB,Negative,Not Interested
+Network connectivity is all over the place. Drops calls frequently.,1,2025-05-25,Yes,8GB-128GB,Negative,Complaint
+Very disappointed with after-sales service. Complete neglect.,1,2025-04-10,Yes,8GB-128GB,Negative,Complaint
+Photo processing is excellent. Pics look natural and sharp.,5,2025-04-11,Yes,12GB-512GB,Positive,Inquiry
+Absolutely love this phone! The camera quality is stunning and battery lasts all day easily.,5,2024-07-20,Yes,8GB-256GB,Positive,Buy Intent
+It's alright for the price. Nothing too impressive but does the job.,3,2025-06-06,Yes,12GB-256GB,Neutral,Inquiry
+Display is gorgeous. Colors pop and it's bright even in sunlight.,5,2025-06-05,Yes,8GB-128GB,Positive,Inquiry
+"Really happy with the call quality. Clear voice, no drops.",5,2024-11-09,No,8GB-256GB,Positive,Buy Intent
+Love the design and build quality. Feels solid in hand.,4,2025-08-03,Yes,8GB-256GB,Positive,Buy Intent
+Performance during video calls is flawless. No heating issues.,5,2025-09-09,Yes,8GB-256GB,Positive,Buy Intent
+Very happy with this purchase. Camera rivals phones twice the price.,4,2024-08-29,Yes,8GB-128GB,Positive,Buy Intent
+"Super smooth UI. No bloatware, which is refreshing.",5,2025-10-01,Yes,12GB-256GB,Positive,Inquiry
+I'm not blown away but it works. That's about it.,3,2026-01-28,Yes,8GB-128GB,Neutral,Inquiry
+It's fine. Not exceptional but not terrible either.,3,2025-05-19,Yes,12GB-256GB,Neutral,Inquiry
+Fingerprint sensor barely works. Have to try 5 times minimum.,1,2024-05-06,Yes,12GB-256GB,Negative,Inquiry
+Planning to gift this to my sister. She'll love the camera.,5,2024-07-08,Yes,12GB-256GB,Positive,Buy Intent
+Good enough for the price range I suppose.,3,2026-01-13,Yes,12GB-256GB,Neutral,Inquiry
+Lag is unbearable. Games are practically unplayable.,1,2026-01-11,Yes,12GB-512GB,Negative,Not Interested
+Does the job but nothing more. 3 stars feels right.,3,2026-01-23,Yes,8GB-256GB,Neutral,Buy Intent
+"Phone is decent. Camera is ok, battery could be better.",3,2024-12-24,Yes,12GB-256GB,Neutral,Not Interested
+The AMOLED display is absolutely beautiful. Perfect for watching videos.,4,2025-07-12,Yes,12GB-512GB,Positive,Buy Intent
+Disappointed. Everything about this phone screams cheap.,2,2025-02-27,Yes,8GB-256GB,Negative,Complaint
+Fingerprint sensor barely works. Have to try 5 times minimum.,2,2025-04-14,Yes,12GB-512GB,Negative,Complaint
